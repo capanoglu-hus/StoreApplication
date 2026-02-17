@@ -1,5 +1,10 @@
 # Store Application
 
+🛒 Blockchain-integrated full-stack commerce platform built with ASP.NET Core
+
+A production-style backend system combining traditional e-commerce workflows with smart contract based payment integration.
+
+Features secure APIs, scalable data handling, clean architecture principles, and blockchain-powered purchasing logic for real-world transaction scenarios.
 
 #### Login/Register pages are available. CRUD operations are performed on Category , Product , Stock pages. Users only use listing operations. Admins use CRUD operations. Users can view and purchase products added by smart contract by connecting Metamask wallet. The admin who wrote the smart contract can apply CRUD operations to the products. All of the same features apply to the mobile app.
 
